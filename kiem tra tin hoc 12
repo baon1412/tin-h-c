@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html>
+     <head>
+          <title>Bài kiếm tra tin 12A1</title>
+          <style>
+                p.red {color: red;}
+                p.darkblue {color: darkblue;}
+          </style>
+     </head>
+     <body>
+          <center><video src ="C:\Users\nt.maiphuong\Downloads\vdtin.mp4"width="800" heigh="450"controls></video></center>
+
+          <h1><center><p class= "darkblue">GIỚI THIỆU THÀNH VIÊN NHÓM</center></h1>
+                       <p><b>THÔNG TIN THÀNH VIÊN</b></p>
+          <ul>
+              <li> Tên: Nguyễn Thị Ngọc Ánh </li>
+              <li> Ngày tháng năm sinh: 24-02-2007 </li>
+              <li> Giới tính: Nữ </li>
+              <li> Tôn giáo: Không</li> 
+              <li> Dân tộc: Kinh </li>
+              <li> Nơi cư trú: Thôn Quyết Tâm, xã Ea Tân, huyện Krông Năng, tỉnh Đắk Lắk </li>
+              <li> Quê quán: Huế </li>
+              <li> Đang học tại: Trường THPT Nguyễn Huệ Lớp: 12A1 </li>
+              <li> Bài hát yêu thích: Tết đong đầy </li><audio src="C:\Users\nt.maiphuong\Downloads\Tết Đong Đầy Lyrics   Kay Trần, Duck V, Nguyễn Khoa.mp3"controls></audio>
+          </ul>
+          <ul>
+              <li> Tên: Lương Bảo Ngọc </li>
+              <li> Ngày tháng năm sinh: 24-02-2007 </li>
+              <li> Giới tính: Nữ </li>
+              <li> Tôn giáo: Không </li> 
+              <li> Dân tộc: Kinh </li>
+              <li> Nơi cư trú: Buôn Kmang, xã Dliêya, huyện Krông Năng, tỉnh Đắk Lắk </li>
+              <li> Quê quán: Xã Tây Bình, huyện Tây Sơn, tỉnh Bình Định </li>
+              <li> Đang học tại: Trường THPT Nguyễn Huệ Lớp: 12A1 </li>
+              <li> Bài hát yêu thích: See you again </li><audio src="C:\Users\nt.maiphuong\Downloads\[Vietsub] Tyler, The Creator - See You Again ft. Kali Uchis.mp3"controls></audio>
+          </ul>
+          <ul>
+              <li> Tên: Trần Thị Cẩm Nhung </li>
+              <li> Ngày tháng năm sinh: 12-07-2007 </li>
+              <li> Giới tính: Nữ </li>
+              <li> Tôn giáo: Không </li> 
+              <li> Dân tộc: Kinh </li>
+              <li> Nơi cư trú: Thôn Yên, xã Ea Tân, huyện Krông Năng, tỉnh Đắk Lắk </li>
+              <li> Quê quán: Thái Bình </li>
+              <li> Đang học tại: Trường THPT Nguyễn Huệ Lớp: 12A1 </li>
+              <li> Bài hát yêu thích: Tháng tư là lời nói dối của em </li><audio src="C:\Users\nt.maiphuong\Downloads\Tháng 4 Là Lời Nói Dối Của Em  Hà Anh Tuấn  Lyrics.mp3" controls></audio>
+          </ul>
+          <ul>
+              <li> Tên: Võ Nguyễn Như Quỳnh </li>
+              <li> Ngày tháng năm sinh: 18-01-2007</li>
+              <li> Giới tính: Nữ </li>
+              <li> Tôn giáo: Không </li> 
+              <li> Dân tộc: Kinh </li>
+              <li> Nơi cư trú: Thôn Đồng Tiến, xã Dliêya, huyện Krông Năng, tỉnh Đắk Lắk </li>
+              <li> Quê quán: Xã Xuân Hội, huyện Nghi Xuân, tỉnh Hà Tĩnh </li>
+              <li> Đang học tại: Trường THPT Nguyễn Huệ Lớp: 12A1 </li>
+              <li> Bài hát yêu thích: Nếu lỡ một mai này quên mất tên người</li><audio src="C:\Users\nt.maiphuong\Downloads\Khiem - Lỡ Một Mai Tôi Quên Tên Người (Official Lyrics Video).mp3" controls></audio>
+          </ul>
+          <ul>
+              <li> Tên: Đỗ Thị Thương </li>
+              <li> Ngày tháng năm sinh: 01-11-2007 </li>
+              <li> Giới tính: Nữ </li>
+              <li> Tôn giáo: Đạo Thiên Chúa </li> 
+              <li> Dân tộc: Kinh </li>
+              <li> Nơi cư trú: Thôn Bắc Trung, xã Ea Tân, huyện Krông Năng, tỉnh Đắk Lắk </li>
+              <li> Quê quán: Nam Định  </li>
+              <li> Đang học tại: Trường THPT Nguyễn Huệ Lớp: 12A1 </li>
+              <li> Bài hát yêu thích: Nơi này có anh </li><audio src="C:\Users\nt.maiphuong\Downloads\Nơi này có anh - Sơn Tùng M-TP (lyrics).mp3" controls></audio>
+          </ul>  
+          <p><b>BẢNG ĐÁNH GIÁ</b></p>
+          <table border ="1">
+                <tr>
+                   <td><b>STT</b></td>
+                   <td><b>HỌ VÀ TÊN</b></td>
+                   <td><b>NHIỆM VỤ</b></td>
+                   <td><b>ĐÁNH GIÁ MỨC ĐỘ THAM GIA</b></td>
+                </tr>
+                <tr>
+                   <td>1</td>
+                   <td>Nguyễn Thị Ngọc Ánh</td>
+                   <td>Soạn nội dung phần bảng đánh giá, hình ảnh, quay video</td>
+                   <td>10/10</td>
+                </tr>
+                <tr>
+                   <td>2</td>
+                   <td>Lương Bảo Ngọc</td>
+                   <td>Soạn nội dung phần bảng đánh giá, quay video, hoàn thiện bài</td>
+                   <td>10/10</td>
+                </tr>
+                <tr>
+                   <td>3</td>
+                   <td>Trần Thị Cẩm Nhung</td>
+                   <td>Soạn nội dung phần giới thiệu, thêm màu, quay video</td>
+                   <td>10/10</td>
+                </tr>
+                <tr>
+                   <td>4</td>
+                   <td>Võ Nguyễn Như Quỳnh</td>
+                   <td>Soạn nội dung phần giới thiệu, thêm màu, quay video</td>
+                   <td>10/10</td>
+                </tr>
+                <tr>
+                   <td>5</td>
+                   <td>Đỗ Thị Thương</td>
+                   <td>Chỉnh sửa video: lọc hình ảnh, âm thanh, liên kết; quay video</td>
+                   <td>10/10</td>
+                </tr>
